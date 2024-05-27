@@ -10,6 +10,13 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 font-family: "Inter", sans-serif;
+position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    transition: top 0.3s;
+    z-index: 1000;
 }
 
 .cabecalho-lista-item{
@@ -161,7 +168,6 @@ font-family: "Montserrat", sans-serif;
     justify-items: end;
 }
 
-
 .email{
     color:white ;
     font: size 15px; ;
@@ -172,4 +178,146 @@ font-family: "Montserrat", sans-serif;
 .instagram{
     height: 60px;
     padding: 12px 0;
+}
+
+.beneficios2{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.benefverduras{
+    padding: 45px;
+    font-size: 230%;
+    color: darkgreen;
+    font-family: "Inter", sans-serif;
+}
+
+.divalface-crespa{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.fotoalface-crespa{
+    width: 200px;
+    margin: 40px ;
+}
+.textoalface{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.divbrocolis{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.fotobrocolis{
+    width: 200px;
+    margin: 40px ;
+}
+.textobrocolis{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.divalhoporo{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.fotoalhoporo{
+    width: 200px;
+    margin: 40px ;
+}
+.textoalhoporo{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.divrepolho{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.fotorepolho{
+    width: 200px;
+    margin: 40px ;
+}
+.textorepolho{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.divespinafre{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.fotoespinafre{
+    width: 200px;
+    margin: 40px ;
+}
+.textoespinafre{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.beneflegumes{
+    padding: 45px;
+    font-size: 230%;
+    color: darkgreen;
+    font-family: "Inter", sans-serif;
+}
+
+.divcenoura{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.fotocenoura{
+    width: 200px;
+    margin: 40px ;
+}
+
+.textocenoura{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.divpimentao{
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.fotopimentao{
+    width: 200px;
+    margin: 40px ;
+}
+
+.textopimentao{
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+.conteudo {
+    margin-top: 80px;
 }
