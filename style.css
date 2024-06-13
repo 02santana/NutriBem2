@@ -110,44 +110,6 @@ font-family: "Montserrat", sans-serif;
     font-family: "Inter", sans-serif;
 }
 
-.divbanana{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
-.divmaca{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
-
-.divmorango{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
-
-.divuva{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
-
-.divabacaxi{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
 
 .rodape{
     background-color: #407132;
@@ -169,13 +131,6 @@ font-family: "Montserrat", sans-serif;
     padding: 12px 0;
 }
 
-.beneficios2{
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: center;
-}
 .benefverduras{
     padding: 45px;
     font-size: 230%;
@@ -183,13 +138,7 @@ font-family: "Montserrat", sans-serif;
     font-family: "Inter", sans-serif;
 }
 
-.divalface-crespa{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
+
 .fotoalface-crespa{
     width: 200px;
     margin: 40px ;
@@ -199,13 +148,7 @@ font-family: "Montserrat", sans-serif;
     font-family: "Montserrat", sans-serif;
 }
 
-.divbrocolis{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
+
 .fotobrocolis{
     width: 200px;
     margin: 40px ;
@@ -215,13 +158,6 @@ font-family: "Montserrat", sans-serif;
     font-family: "Montserrat", sans-serif;
 }
 
-.divalhoporo{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
 .fotoalhoporo{
     width: 200px;
     margin: 40px ;
@@ -231,12 +167,9 @@ font-family: "Montserrat", sans-serif;
     font-family: "Montserrat", sans-serif;
 }
 
-.divrepolho{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
+.div{
+    text-align: center;
+    margin: 12px;
 }
 .fotorepolho{
     width: 200px;
@@ -247,13 +180,7 @@ font-family: "Montserrat", sans-serif;
     font-family: "Montserrat", sans-serif;
 }
 
-.divespinafre{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
+
 .fotoespinafre{
     width: 200px;
     margin: 40px ;
@@ -270,13 +197,7 @@ font-family: "Montserrat", sans-serif;
     font-family: "Inter", sans-serif;
 }
 
-.divcenoura{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
+
 
 .fotocenoura{
     width: 200px;
@@ -288,13 +209,7 @@ font-family: "Montserrat", sans-serif;
     font-family: "Montserrat", sans-serif;
 }
 
-.divpimentao{
-    display:inline-flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-    align-items: center;
-}
+
 
 .fotopimentao{
     width: 200px;
@@ -326,5 +241,12 @@ font-family: "Montserrat", sans-serif;
          flex-wrap: nowrap;
          justify-content: center;
      }
+     .div{
+        display:inline-flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        align-items: center;
+    }
      
 }
