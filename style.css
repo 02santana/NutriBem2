@@ -114,9 +114,8 @@ font-family: "Montserrat", sans-serif;
 .rodape{
     background-color: #407132;
     text-align: right;
-    display: grid;
-    justify-content: end;
-    justify-items: end;
+    display: flex;
+
 }
 
 .email{
