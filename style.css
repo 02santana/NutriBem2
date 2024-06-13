@@ -127,6 +127,13 @@ justify-content: space-between;
     text-align: left;
 }
 
+.numero{
+    color:white ;
+    font: size 15px; ;
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+}
+
 .instagram{
     height: 60px;
     padding: 12px 0;
