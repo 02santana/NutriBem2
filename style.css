@@ -265,19 +265,8 @@ justify-content: space-between;
         align-items: center;
     }
      
-    .cabecalho {
-        background-color:#407132;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    font-family: "Inter", sans-serif;
-    position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        padding: 20px;
-        transition: top 0.3s;
-        z-index: 1;
+    .introd-div-conteudo{
+        width: 45%;
     }
+   
 }
