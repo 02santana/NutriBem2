@@ -269,4 +269,12 @@ justify-content: space-between;
         width: 45%;
     }
    
+    .texto-1{
+        padding: 15px 0;
+    }
+    
+    .texto-2{
+        font-size: 120%;
+        font-family: "Montserrat", sans-serif;
+    }
 }
