@@ -31,7 +31,7 @@ position: fixed;
 }
 
 .frutas1{
-    width: 32%;
+    width: 50%;
     margin: 95px;
 }
 
@@ -264,7 +264,7 @@ justify-content: space-between;
     }
      
     .frutas1{
-        width: 50%;
+        width: 35%;
         margin: 95px;
     }
 }
