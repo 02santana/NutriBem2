@@ -268,3 +268,13 @@ justify-content: space-between;
         margin: 95px;
     }
 }
+
+@media screen and (max-width: 400) {
+.titulo-introducao {
+        padding: 25px;
+        font-size: 230%;
+        color: darkgreen;
+        font-family: "Inter", sans-serif;
+        margin-top: 139px;
+    }
+}
