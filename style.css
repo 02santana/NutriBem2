@@ -36,7 +36,9 @@ position: fixed;
 }
 
 
-
+.introducao{
+    padding-top: 100px;
+}
 
 .titulo-introducao{
     padding: 25px 0;
