@@ -11,7 +11,7 @@ justify-content: space-around;
 align-items: center;
 font-family: "Inter", sans-serif;
 position: fixed;
-    top: 0;
+    
     left: 0;
     width: 100%;
     padding: 20px;
@@ -37,7 +37,9 @@ position: fixed;
 
 
 
-
+.introducao{
+    padding: 128px;
+}
 
 .titulo-introducao{
     padding: 25px 0;
